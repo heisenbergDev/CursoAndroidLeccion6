@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CursoAndroidLeccion6</string>
+    <string name="hello_world">Practicando con las preferencias</string>
+    
+    <string name="preferenciasTerremoto">Preferencias Terremoto</string>
+	<string name="menu_update">Refrescar terremoto</string>
+	<string name="auto_update_prompt">Auto-refresco?</string>
+	<string name="update_freq_prompt">Frecuencia de actualización</string>
+	<string name="min_quake_mag_prompt">Magnitud mínima del terremoto</string>
+	<string name="menu_preferences">Preferencias</string>    
+
+</resources>
